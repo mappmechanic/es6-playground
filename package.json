@@ -1,0 +1,25 @@
+{
+  "name": "es6-playground",
+  "version": "0.0.1",
+  "description": "Playground for Learning ES6 & its Build Tools",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahat Khanna",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "browser-sync": "^2.11.0",
+    "css-loader": "^0.23.1",
+    "gulp": "^3.9.0",
+    "gulp-webpack": "^1.5.0",
+    "raw-loader": "^0.5.1",
+    "run-sequence": "^1.1.5",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.9"
+  }
+}

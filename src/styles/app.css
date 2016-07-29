@@ -1,0 +1,9 @@
+h2{
+	color:red
+}
+
+.highlighted
+{
+  display: inline;
+  color:red;
+}
